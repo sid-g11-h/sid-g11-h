@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end developer with 2 years of experience specializing in interactive web applications and microsites.<br><br>🔧 Tech Stack:<br>- HTML, CSS, JavaScript<br>- React (primary framework)<br>- Vue.js<br><br>💼 Expertise:<br>- Responsive web design<br>- Campaign microsites (user registration, QR code scanning, product code entry)<br>- Cashback and reward systems<br>- Dashboards<br>- Company websites<br>- Chatbot integration<br><br>🚀 Current focus:<br>- Enhancing React skills<br>- Exploring Phaser for game development<br><br>Always eager to collaborate on innovative front-end projects and exchange knowledge with fellow developers!
+Front-end developer with 2 years of experience specializing in interactive web applications and microsites.<br><br>🔧 Tech Stack:<br>- HTML, CSS, JavaScript<br>- React (primary framework)<br>- Vue.js<br><br>💼 Expertise:<br>- Responsive web design<br>- Campaign microsites (user registration, QR code scanning, product code entry)<br>- Cashback and reward systems<br>- Dashboards<br>- Company websites<br>- Chatbot integration<br><br>🚀 Current focus:<br>- Enhancing React skills<br>- Exploring Phaser for game development and new technology<br><br>Always eager to collaborate on innovative front-end projects and exchange knowledge with fellow developers!
 
 
 ## 🌐 Socials:
